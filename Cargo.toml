@@ -1,0 +1,9 @@
+[package]
+name = "micro-bit"
+version = "0.1.0"
+authors = ["segfo <k.segfo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cortex-m-rt="~0.6"
+microbit = "0.6.3"
